@@ -29,7 +29,7 @@ Após a criação do esquema lógico, realizado o desenvolvimento do Script SQL 
 :heavy_check_mark: As modelagens de dados assim como o projeto, foram desenvolvidos com estudos e utilização dos recursos das ferramentas: DB Designer, Draw.io, MySQL Workbench e SQL. :blue_heart: 
 
 <br/>***<h2> :pencil: Observação: </h2>***
-Os desenvolvimentos dos procedimentos propostos, foram realizados com o acompanhamento e anotações 💗<br/>das orientações do projeto, revisão das aulas e pesquisas. 💛 👩‍💻 🧡
+Os desenvolvimentos dos procedimentos propostos, foram realizados com o acompanhamento e anotações 💗<br/>das orientações do projeto, revisão das aulas e pesquisas. 💛👩‍💻💛 
   
 <h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3>  
 
